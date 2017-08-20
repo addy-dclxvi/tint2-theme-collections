@@ -1,0 +1,37 @@
+#!/bin/bash
+
+SHOWNAME_PATH=~/.cache/i3block-mpd-showname
+
+exec-mpc() {
+    mpc $* &> /dev/null
+}
+
+showname=$([ -f $SHOWNAME_PATH ] && cat $SHOWNAME_PATH || echo 0)
+
+case $BLOCK_BUTTON in
+  1) exec-mpc toggle ;;
+  2) exec-mpc stop   ;;
+  3) showname=$((!$showname)); echo $showname > $SHOWNAME_PATH ;;
+  4) exec-mpc prev    ;;
+  5) exec-mpc next   ;;
+esac
+
+playing=♫
+paused=⏸
+stopped=♪ 
+
+status=$(mpc status | sed -n 's/^\[\([^])]*\)\].*$/\1/p')
+
+case $status in
+  playing) echo -n $playing ;;
+  paused)  echo -n $paused  ;;
+  *)       echo -n $stopped ;;
+esac
+
+echo -n '  '
+
+if [ $showname = '1' ]; then
+mpc current
+fi
+#  mpc current | awk -F ' - ' '{printf "%s", substr($2, 0, 20)}'
+#  mpc current | awk -F ' - ' '{printf $(mpc current), substr($2, 0, 20)}'

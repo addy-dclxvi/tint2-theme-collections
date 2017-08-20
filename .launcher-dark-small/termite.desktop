@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Termite
+Comment=Use the command line
+Exec=termite
+Icon=/home/addy/.config/tint2/.launcher-dark-small/icons/dialog-scripts.svg
+Type=Application
+Categories=GTK;System;TerminalEmulator;
+StartupNotify=true
