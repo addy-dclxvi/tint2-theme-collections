@@ -15,6 +15,8 @@ Do it Yourself :p
 
 - xfwm tint2 is designed for 4 workspaces & 1366 px width
 
+- tiling tint2 is designed for 8 workspaces & 1366 px width, I'mm it for herbstluftwm 
+
 - I don't know about code, most of these are built using tint2conf GUI. So these tint2 config files are very dirty, with so many useless code
 
 ## Credits
