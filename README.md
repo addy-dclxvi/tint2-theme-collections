@@ -19,6 +19,8 @@ Do it Yourself :p
 
 - I don't know about code, most of these are built using tint2conf GUI. So these tint2 config files are very dirty, with so many useless code
 
+- Weather executor script need API key from openweathermap.com, please sign up first. And don't forget to change your city code as well.
+
 ## Credits
 [BunsenLabs Forum](https://forums.bunsenlabs.org/viewtopic.php?id=254), I learn so much there.
 [ARCHLabs Github](https://github.com/ARCHLabs/Archlabs-Tint2-Themes), one of my main resouces for learning.
