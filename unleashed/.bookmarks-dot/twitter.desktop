@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Twitter
+Type=Link
+URL=http://twitter.com
+Icon=/home/addy/.config/tint2/unleashed/.bookmarks-dot/icons/twitter.png
+Exec=firefox -new-tab http://twitter.com

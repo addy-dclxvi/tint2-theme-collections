@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Reddit
+Type=Link
+URL=http://reddit.com
+Icon=/home/addy/.config/tint2/.bookmarks/icons/reddit.png
+Exec=firefox -new-tab http://reddit.com

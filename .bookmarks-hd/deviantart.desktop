@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DeviantArt
+Type=Link
+URL=http://deviantart.com
+Icon=/home/addy/.config/tint2/.bookmarks/icons/deviantart.png
+Exec=firefox -new-tab http://deviantart.com

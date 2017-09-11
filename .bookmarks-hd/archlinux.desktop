@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Arch Linux
+Type=Link
+URL=http://archlinux.org
+Icon=/home/addy/.config/tint2/.bookmarks-hd/icons/arch.png
+Exec=firefox -new-tab http://archlinux.org

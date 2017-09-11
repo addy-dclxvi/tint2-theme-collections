@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=YouTube
+Type=Link
+URL=http://youtube.com
+Icon=/home/addy/.config/tint2/.bookmarks/icons/youtube.png
+Exec=firefox -new-tab http://youtube.com

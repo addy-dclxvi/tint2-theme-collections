@@ -1,7 +1,8 @@
 #!/bin/bash
 # Based on http://openweathermap.org/current
 
-API_KEY="365a6f3a274bba21cabdbee0aa4xxxxx" #Get Your own API code :P
+# Get your own API code :p
+API_KEY="365a6f3a274bba21cabdbee0aa44exxx"
 
 # Check on http://openweathermap.org/find
 CITY_ID="1650888"
