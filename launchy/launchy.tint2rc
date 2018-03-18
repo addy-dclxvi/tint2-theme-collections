@@ -217,7 +217,7 @@ separator_padding = 4 4
 #-------------------------------------
 # Button 1
 button = new
-button_icon = /home/addy/.config/tint2/launchy/icons/chanu.png
+button_icon = /home/addy/.config/tint2/launchy/icons/launch.png
 button_text = 
 button_lclick_command = rofi-apps
 button_rclick_command = 
@@ -249,7 +249,7 @@ button_max_icon_size = 0
 #-------------------------------------
 # Button 3
 button = new
-button_icon = /home/addy/.config/tint2/launchy/icons/folder.png
+button_icon = /home/addy/.config/tint2/launchy/icons/thunar.png
 button_text = 
 button_lclick_command = thunar
 button_rclick_command = 
@@ -281,7 +281,7 @@ button_max_icon_size = 0
 #-------------------------------------
 # Button 5
 button = new
-button_icon = /home/addy/.config/tint2/launchy/icons/draft.png
+button_icon = /home/addy/.config/tint2/launchy/icons/geany.png
 button_text = 
 button_lclick_command = geany
 button_rclick_command = 
