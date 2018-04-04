@@ -1,40 +1,73 @@
-# My Tint2 Theme Collections
-Just my personal backup repository of my tint2 collections, but everyone are welcome to use it
+# Introduction
+Tint2 is my favourite panel. It offer GUI option to customize the configuration, easy to use but extremely customizable.
+And lightweight. I use Tint2 in Openbox, Fluxbox, and Xfce.
+This repository is  my personal backup of my tint2 collections, but everyone are welcome to use it.
 ## Preview
-![alt text](https://raw.githubusercontent.com/addy-dclxvi/Openbox-Theme-Collections/master/preview.jpg)
-I can't give every theme preview one by one, but You can view My Deviant Art [Gallery](http://addy-dclxvi.deviantart.com/gallery/).
-Every of my tint2 setups are using these themes.
-## Getting Started
-You need tint2 with executor support for some of my tint2 themes
+## Leve, Raven, Clair, & Triste
+![preview-leve](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-leve.jpg) <br />
+![preview-raven](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-raven.jpg) <br />
+All of them look similar. The only difference is the background colour. 
+Leve has semi-transparent white background. Raven has semi tranparent black backround.
+Clair has opaque white background. Triste has opaque black background.
+All of them has eight colour accent options. So, total 32 themes available.
+The now-playing and weather need executor script those are available in my [dotfiles](https://git.io/addydots).
+now-playing executor is for mpd music player. <br />
+
+## Liness
+![preview-liness](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-liness.jpg) <br />
+Just a line shapped workspace indicator. The icons are glued in the wallpaper :stuck_out_tongue: <br />
+
+## Minima
+![preview-minima](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-minima.jpg) <br />
+Like its name, a minimal tint2 configuration. With underline <br />
+
+## Unleashed
+![preview-unleashed](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-unleashed.jpg) <br />
+All items in the screenshoot (taskbar, workspace indicator, statusbar, clock, and dot shapped bookmark launcher) are using tint2.
+The workspace indicator is hardcoded for four workspace & 1366px screen wide. 
+The bookmark launcher will show a tooltip of website name on hover.
+I made this when *Tint Button* feature had not been invented.
+So I made the buttons using traditional *Tint2 Launcher* which is convoluted.
+You need to edit the `*.desktop` files first. <br />
+
+## Launchy
+![preview-launchy](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-launchy.jpg) <br />
+Just contains Start Menu, shortcut of some apps I frequently use, and some bookmark launcher.
+I use Rofi as start menu. The custom script needed is available in my [dotfiles](https://git.io/addydots). <br />
+
+## Blocky
+![preview-blocky](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-blocky.jpg) <br />
+Just bookmark launcher of website I frequently use. It's autohide, so doesn't waste any screen space. <br />
+
+## Getting Started & Notes
+- You need Tint2 with executor, separator, and buttons support.
+If You are on rolling release distro, nothing to worry.
+But if You are on Debian, use Backported Tint2 from Bunsenlabs repository.
+Or simply build from source.
+- The executor & utility scripts are available in my [dotfiles](https://git.io/addydots).
+- All of these configuration are built using Tint2Conf GUI.
+So probably the code is not very clean.
+- Bookmark Launcher is using Firefox. If You are using another Web Browser, just edit the configuration files.
+- The icons path is hardcoded to */home/addy/*. Replace addy with your username in the configuration files.
+- I always use Noto Sans and Roboto fonts
+- Probably couldn't work out of the box :stuck_out_tongue:
+
 ## Installation
-Do it Yourself :p
-## Caution
-- Executor scripts & icons path placement are hardcoded, so place this tint2 themes to ~/.config/tint2
-
-- Executor scripts are derived from i3blocks module. I tested it doesn't work if the machine never run i3blocks at least once.
-
-- Icons path for *.desktop files are hardcoded to /home/addy/.config/tint2/.launcher*/icons/ (Yup, there is my username), so edit the *.desktop files first
-
-- xfwm tint2 is designed for 4 workspaces & 1366 px width
-
-- tiling tint2 is designed for 8 workspaces & 1366 px width, I'm using it for herbstluftwm 
-
-- I don't know about code, most of these are built using tint2conf GUI. So these tint2 config files are very dirty, with so many useless code
-
-- Weather executor script need API key from openweathermap.com, so please sign up first. And don't forget to change your city code as well.
-
-- Bookmark launcher tint2 is launching Firefox on click. Don't love Firefox? Just edit the *.desktop files.
-
+Simply just clone this repo to your Tint2 configuration folder <br />
+`git clone https://github.com/addy-dclxvi/tint2-theme-collections ~/.config/tint2 --depth 1` <br />
+Then launch the tint2 with `-c` flag, for example <br />
+`tint2 -c ~/.config/tint2/blocks/blocks.tint2rc &` <br />
+Add it to your autostart to make your life easier :wink:
 
 ## Credits
 [BunsenLabs Forum](https://forums.bunsenlabs.org/viewtopic.php?id=254), I learn so much there.
 [ARCHLabs Github](https://github.com/ARCHLabs/Archlabs-Tint2-Themes), one of my main resouces for learning.
 [Anachron i3blocks](https://github.com/Anachron/i3blocks), I try to execute an i3block script using tint2 executor, without any expectation it will work.
 But ridiculously it works! So I slightly modify it to fit into my tint2 themes.
+
 ## License
-Feel free to modify and share this theme
-## My Links
-[Google+](https://plus.google.com/+AdhiPambudi)
+GPL of course. Feel free to modify and share this theme.
+
+## Other Link
 [Deviant Art](http://addy-dclxvi.deviantart.com/)
 
-Telegram : addy_elric
