@@ -39,6 +39,15 @@ I use Rofi as start menu. The custom script needed is available in my [dotfiles]
 ![preview-blocky](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-blocky.jpg) <br />
 Just bookmark launcher of website I frequently use. It's autohide, so doesn't waste any screen space. <br />
 
+## Starty
+![preview-starty](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-starty.jpg) <br />
+The bottom left buttons are (in order) Start Menu, Expose, Screenshoot, and Power Menu.
+Start Menu will launch `rofi` with custom configuration (minus colour scheme).
+Expose will launch `skippy-xd`.
+Screenshoot will launch `scrot` then instantly show the result using `viewnior`.
+Power Menu will launch `oblogout`.
+Install those packages if You didn't have.
+
 ## Getting Started & Notes
 - You need Tint2 with executor, separator, and buttons support.
 If You are on rolling release distro, nothing to worry.
