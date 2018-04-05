@@ -35,8 +35,8 @@ You need to edit the `*.desktop` files first. <br />
 Just contains Start Menu, shortcut of some apps I frequently use, and some bookmark launcher.
 I use Rofi as start menu. The custom script needed is available in my [dotfiles](https://git.io/addydots). <br />
 
-## Blocky
-![preview-blocky](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-blocky.jpg) <br />
+## Blocks
+![preview-blocks](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-blocks.jpg) <br />
 Just bookmark launcher of website I frequently use. It's autohide, so doesn't waste any screen space. <br />
 
 ## Starty
