@@ -48,6 +48,11 @@ Screenshoot will launch `scrot` then instantly show the result using `viewnior`.
 Power Menu will launch `oblogout`.
 Install those packages if You didn't have.
 
+## Popside
+![preview-popside](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-popside.jpg) <br />
+Simple Startmenu & Taskbar. Search Button will launch `rofi` with custom configuration (minus colour scheme).
+Taskbar will only visible if You have any window opened.
+
 ## Getting Started & Notes
 - You need Tint2 with executor, separator, and buttons support.
 If You are on rolling release distro, nothing to worry.
