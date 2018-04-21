@@ -53,6 +53,10 @@ Install those packages if You didn't have.
 Simple Startmenu & Taskbar. Search Button will launch `rofi` with custom configuration (minus colour scheme).
 Taskbar will only visible if You have any window opened.
 
+## Neon
+![preview-neon](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-neon.jpg) <br />
+Identical with Popside. Just different colour.
+
 ## Getting Started & Notes
 - You need Tint2 with executor, separator, and buttons support.
 If You are on rolling release distro, nothing to worry.
