@@ -57,6 +57,10 @@ Taskbar will only visible if You have any window opened.
 ![preview-neon](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-neon.jpg) <br />
 Identical with Popside. Just different colour.
 
+## Uncreative
+![preview-minima](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-minima.jpg) <br />
+Just task buttons <br />
+
 ## Getting Started & Notes
 - You need Tint2 with executor, separator, and buttons support.
 If You are on rolling release distro, nothing to worry.
