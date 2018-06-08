@@ -58,7 +58,7 @@ Taskbar will only visible if You have any window opened.
 Identical with Popside. Just different colour.
 
 ## Uncreative
-![preview-minima](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-minima.jpg) <br />
+![preview-minima](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-uncreative.jpg) <br />
 Just task buttons <br />
 
 ## Getting Started & Notes
