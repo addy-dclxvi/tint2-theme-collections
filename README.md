@@ -61,6 +61,10 @@ Identical with Popside. Just different colour.
 ![preview-minima](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-uncreative.jpg) <br />
 Just task buttons <br />
 
+## Zug
+![preview-zug](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-zug.jpg) <br />
+The top part is Conky and need Bebas Neue font <br />
+
 ## Getting Started & Notes
 - You need Tint2 with executor, separator, and buttons support.
 If You are on rolling release distro, nothing to worry.
