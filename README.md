@@ -68,7 +68,8 @@ The top part is Conky and need Bebas Neue font <br />
 ## Fmaj7
 ![preview-fmaj7](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-fmaj7.jpg) <br />
 Only start menu button for launching rofi & expose button for launching skippy-xd.
-Rofia script is available in my dotfiles. Also has alternative config with taskbar. <br />
+Rofia script is available in my dotfiles. Also has alternative config with taskbar.
+This panel will autohide. Only visible on hover. <br />
 
 ## Getting Started & Notes
 - You need Tint2 with executor, separator, and buttons support.
