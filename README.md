@@ -71,6 +71,10 @@ Only start menu button for launching rofi & expose button for launching skippy-x
 Rofia script is available in my dotfiles. Also has alternative config with taskbar.
 This panel will autohide. Only visible on hover. <br />
 
+## Carina
+![preview-carina](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-carina.jpg) <br />
+Need weather executor from my dotfiles. The right part is just iconless & textless taskbar haha <br />
+
 ## Getting Started & Notes
 - You need Tint2 with executor, separator, and buttons support.
 If You are on rolling release distro, nothing to worry.
