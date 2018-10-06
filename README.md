@@ -75,6 +75,9 @@ This panel will autohide. Only visible on hover. <br />
 ![preview-carina](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-carina.jpg) <br />
 Need weather executor from my dotfiles. The right part is just iconless & textless taskbar haha <br />
 
+## Repentance
+![preview-repentance](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-repentance.jpg) <br />
+
 ## Getting Started & Notes
 - You need Tint2 with executor, separator, and buttons support.
 If You are on rolling release distro, nothing to worry.
