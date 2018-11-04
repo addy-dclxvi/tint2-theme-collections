@@ -78,6 +78,10 @@ Need weather executor from my dotfiles. The right part is just iconless & textle
 ## Repentance
 ![preview-repentance](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-repentance.jpg) <br />
 
+## Livia
+![preview-livia](https://raw.githubusercontent.com/addy-dclxvi/tint2-theme-collections/master/preview-livia.jpg) <br />
+Rofi script glued in te tint2 button
+
 ## Getting Started & Notes
 - You need Tint2 with executor, separator, and buttons support.
 If You are on rolling release distro, nothing to worry.
