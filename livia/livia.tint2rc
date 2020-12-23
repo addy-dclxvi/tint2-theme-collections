@@ -193,7 +193,7 @@ ac_disconnected_cmd =
 #-------------------------------------
 # Button 1
 button = new
-button_icon = /home/addy/.config/tint2/livia/apps.png
+button_icon = ~/.config/tint2/livia/apps.png
 button_text = 
 button_lclick_command = ~/.config/tint2/livia/launch
 button_rclick_command = 
